@@ -64,7 +64,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![VLSI 2](https://github.com/user-attachments/assets/d04edc0b-33f1-4875-b1de-ffa144926a8c)
+![VLSI 2 2](https://github.com/user-attachments/assets/f7f552a9-d961-4a43-8399-58c024688a04)
 
 
 iv)	Creating the new test cell view
